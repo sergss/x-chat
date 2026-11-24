@@ -1,9 +1,9 @@
 {
   "package": "ru.xchat.app",
-  "version": 7,
-  "name": "0.9.3-beta",
-  "url": "https://github.com/sergss/x-chat/releases/download/v0.9.3-beta/x-chat-0.9.3-beta-release.apk",
-  "sha256": "f80da65e499c702e96fdec82d59781b807663bea0949af6c7091002b896b00b9",
-  "bytes": 1807097,
+  "version": 8,
+  "name": "0.9.4-beta",
+  "url": "https://github.com/sergss/x-chat/releases/download/v0.9.4-beta/x-chat-0.9.4-beta-release.apk",
+  "sha256": "b5d7d6525e5e4f48b17766c46e72ab20ce72b5306123a5bde6c9b9c3d082b71a",
+  "bytes": 1808605,
   "notes": "Личные чаты, закрытые группы, обмен фото, файлами и голосовыми сообщениями."
 }
